@@ -1,0 +1,23 @@
+{
+	"databases": 
+	[
+		{
+			"sorting": 1,
+			"imgCode": "1",
+			"code": "foo1",
+			"name": "foo1 DB",
+			"stringConnection": "fooStringConnection",
+			"user": "foo1",
+			"pass": "foo1"
+		},
+		{
+			"sorting": 2,
+			"imgCode": "4",
+			"code": "foo2",
+			"name": "foo2 DB",
+			"stringConnection": "fooStringConnection",
+			"user": "foo2",
+			"pass": "foo2"
+		}
+	]
+}
